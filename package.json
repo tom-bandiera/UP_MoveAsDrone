@@ -1,0 +1,16 @@
+{
+  "name": "be.tombandiera.moveasdrone",
+  "version": "0.0.1",
+  "displayName": "MoveAsDrone",
+  "description": "Take X,Y,Z inputs to move as a drone",
+  "unity": "2019.1",
+  "author": {
+    "name": "Tom Bandiera",
+    "email": "tom.bandier@gmail.com"
+  },
+  "keywords": [
+    "unity",
+    "gamepad",
+    "inputs"
+  ]
+}
